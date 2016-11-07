@@ -1,0 +1,8 @@
+{
+  "package": {
+    "name": "travis-bintray-test",
+    "repo": "maven",
+    "subject": "chiknrice"
+  },
+  "publish": false
+}
