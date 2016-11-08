@@ -11,7 +11,8 @@
   },
   "files": [
     {
-      "includePattern": "target/(.*\\.jar)"
+      "includePattern": "target/(.*\\.jar)",
+      "uploadPattern": "$1"
     }
   ],
   "publish": false
