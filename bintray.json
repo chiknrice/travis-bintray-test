@@ -5,7 +5,7 @@
     "subject": "chiknrice"
   },
   "version": {
-    "name": "0.5",
+    "name": "${TRAVIS_TAG}",
     "desc": "This is a version",
     "gpgSign": false
   },
